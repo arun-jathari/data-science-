@@ -5,3 +5,4 @@ In this repository i'm planning to add the various small-scale datascience noteb
 also some notes on my way to become data scientist
 
 Happy learning :)
+$\theta_0$ is intercept and $\theta_1$
